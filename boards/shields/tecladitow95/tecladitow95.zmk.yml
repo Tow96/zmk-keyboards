@@ -1,0 +1,9 @@
+file_format: "1"
+id: tecladitow95
+name: TecladiTow95
+type: shield
+url: https://github.com/tow96/tecladitow95
+# requires: [nice_nano]
+# exposes: [i2c_oled]
+features:
+  - keys

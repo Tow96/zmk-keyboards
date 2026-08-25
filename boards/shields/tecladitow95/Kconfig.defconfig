@@ -1,0 +1,7 @@
+if SHIELD_TECLADITOW95
+
+config ZMK_TECLADITOW95
+    bool
+    default y
+
+endif

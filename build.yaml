@@ -1,0 +1,9 @@
+include:
+  - board: nice_nano
+    shield: tecladitow95
+
+  # Corne keyboard
+  - board: nice_nano@2
+    shield: corne_left
+  - board: nice_nano@2
+    shield: corne_right
